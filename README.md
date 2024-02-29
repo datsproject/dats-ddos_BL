@@ -12,3 +12,5 @@
  - pip install -r requirements.txt
  
  Kaynak (https://www.devdungeon.com/content/run-python-script-windows-service)
+
+## Yeni içerik
