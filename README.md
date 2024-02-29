@@ -2,7 +2,7 @@
 
 ...........................
 
-# Gereksinimler
+# Gereksinimler.
  - git clone repo
  - python install
  - pip install
