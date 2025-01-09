@@ -1,14 +1,14 @@
-# Repo Hakkında
+# About Repo
 
 ...........................
 
-# Gereksinimler.
+# Requirements:
  - git clone repo
  - python install
  - pip install
- - venv oluştur
- - venv activate.bat çalıştır
- - venv ile içine girmek
+ - create venv
+ - run venv activate.bat
+ - get into it with venv
  - pip install -r requirements.txt
  
- Kaynak (https://www.devdungeon.com/content/run-python-script-windows-service)
+ Source: https://www.devdungeon.com/content/run-python-script-windows-service
