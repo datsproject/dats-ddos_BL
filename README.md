@@ -12,3 +12,5 @@
  - pip install -r requirements.txt
  
  Source: https://www.devdungeon.com/content/run-python-script-windows-service
+
+NOTE: Windows 10/11
